@@ -1,5 +1,5 @@
 
-const mintContractAddress = '0x97e462e9Fb2aE2f6beE6cB23a19f6e7939b8D630' ; 
+const mintContractAddress = '0x404E6267658A0B123467A9F2db9f815Fa76ADe88' ; 
 
 const mintABI = [
 	{
